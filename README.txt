@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://raw.githubusercontent.com/wenbo624/HelloWorld_AndroidApp/master/hello_app_wenbo.gif
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
